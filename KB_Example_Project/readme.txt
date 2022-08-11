@@ -13,3 +13,4 @@ Restarting the edits
 
 Edit after creating the Testing Branch
 >>>>>>> refs/heads/Testing
+Added after gitignore is implemented
